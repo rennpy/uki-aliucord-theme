@@ -38,9 +38,5 @@
     "brand_new_560": -2444578,
     "primary_dark_330": -2894634
   },
-  "drawable_tints": {
-    "drawable_overlay_channels_selected_dark": -8615766,
-    "ic_channel_text": -1656344,
-    "drawable_bg_reaction_dark": 667524053,
-  }
+  "drawable_tints": {}
 }
