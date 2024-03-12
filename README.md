@@ -1,4 +1,4 @@
-  # Cotton Candy theme for aliucord
+  # Cotton Candy Aliucord Theme
 # screenshots
 
 
