@@ -1,4 +1,4 @@
-# uki-alicord-theme
+# uki-aliucord-theme
 # screenshots
 ![theme-preview-1](https://github.com/ukivie/uki-alicord-theme/assets/158360149/a4b4e59e-8e10-4ccd-89cf-f83890a19f67)
 
