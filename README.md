@@ -1,5 +1,5 @@
   # Cotton Candy Aliucord Theme
-# screenshots
+# Screenshots
 
 
 ![preview-1](https://github.com/ukivie/uki-alicord-theme/assets/158360149/226bcf06-1aae-4732-b451-279a9b08d9dd)
